@@ -6,7 +6,7 @@ public class ProvaUtilitatsXifrar {
     public static void main(String[] args) throws Exception {
         // ! 5. Xifrar i desxifrar un text en clar amb una clau generada amb el codi 1.1.1
         System.out.println("\n───────────────────────────────────────────────────────────────────────────────");
-        System.out.println("  Xifrar i desxifrar un text en clar amb una clau generada amb el codi 1.1.1");
+        System.out.println("  ifrar i desxifrar un text en clar amb una clau generada amb el codi 1.1.1");
         System.out.println("───────────────────────────────────────────────────────────────────────────────");
 
         String text = "Aquest és un text de prova";
